@@ -1,0 +1,60 @@
+O QUE É UMA CITAÇÃO?
+
+As citações nada mais são do que referências às informações extraídas de outros trabalhos, como livros, filmes, periódicos, sites e outras fontes que já trabalharam anteriormente com o seu tema. Então, são as citações que dão a certificação de que o trabalho possui um embasamento teórico firme e técnico. Ou seja: as citações são uma parte fundamental da tua pesquisa, porque elas garante a confiabilidade e qualidade técnica do trabalho.
+
+Assim, mesmo que a lente de análise ou a abordagem não sejam as mesmas, alguém já escreveu sobre o tema do seu trabalho. E isso é essencial para que você possa fundamentar e criar o seu referencial teórico de maneira sólida. E são as citações que te auxiliam a incorporar essas outras produções ao seu texto, dando o devido crédito a quem escreveu, quer dizer, elas dão suporte técnico e científico à sua ideia. Por isso, servem para esclarecer e sustentar o assunto do texto.
+
+
+MAS POR QUE UTILIZAR CITAÇÕES?
+
+Mesmo que você seja o autor da obra que está citando, preze pela identificação da referência. Isso porque uma pesquisa ou um trabalho acadêmico precisam de bases científicas, clareza na explicação, fontes confiáveis e a possibilidade de serem estudados por qualquer pessoa.
+
+Ou seja, ao citar outros autores e colocar a referência ao trabalho você permite que seus leitores procurem os textos originais e leiam por si só. Aliás, essa é uma prática muito valorizada na ciência, pois possibilita a continuidade da pesquisa e a produção de muitos outros trabalhos. Além disso, muitos avaliadores vão olhar para os autores citados para verificar se são fontes confiáveis no assunto, assim, medem a qualidade técnica da sua pesquisa.
+
+TIPOS DE CITAÇÕES:
+
+CITAÇÃO INDIRETA:
+
+Se você acha que nunca usou uma citação, provavelmente não deve conhecer a citação indireta.
+
+Ela é usada sempre que falamos sobre outras obras com as nossas próprias palavras e sem citar as palavras exatas do autor.
+
+Na ABNT, essas citações são referenciadas da seguinte forma:
+
+ - A obra original deve ser referenciada de acordo com as normas da ABNT para referências (NBR 6023): coloque o sobrenome do autor, ano de publicação da obra e, se necessário, página;
+ - A citação indireta deve seguir a formatação do texto, sem recuo ou alteração no tamanho da fonte.
+
+CITAÇÃO DIRETA CURTA: 
+
+Por outro lado, a citação direta é a mais comum das citações, pois transcreve, literalmente, um trecho da obra, respeitando todas as palavras do autor.
+
+Mas ela possui duas formas diferentes.
+
+Quando ela possui menos de três linhas é chamada de citação direta curta.
+
+Na ABNT, a citação direta curta é apresentada da seguinte forma:
+
+ - São citadas ao longo do texto, entre aspas, mas sem alterar o tamanho da fonte;
+ - Como manda a norma da ABNT sobre referências (NBR 6023), o autor deve ser referenciado com o sobrenome, ano de publicação da obra e a página onde consta o trecho apresentado.
+
+CITAÇÃO DIRETA LONGA:
+
+Diferente da citação curta, as citações diretas longas são aquelas que passam das 3 linhas.
+
+De acordo com a ABNT, elas são apresentadas no texto seguindo as regras:
+
+ - Deve ser destacada com recuo de 4cm da margem esquerda
+ - Letra menor que a do texto, a depender do modelo adotado pela instituição. Normalmente o recomendado é tamanho 10;
+ - Espaçamento simples
+ - Sem aspas
+ - Paginação obrigatória
+
+CITAÇÃO DE CITAÇÃO:
+
+A citação de citação também pode ser chamada de apud, que é um termo em latim que significa “junto a, perto de, em”. No contexto científico e acadêmico este termo é utilizado como sinônimo de “citado por”. A citação de citação é, de forma geral, quando se insere no texto a citação de um autor que foi encontrada em outra obra.
+
+É importante frisar que o ideal é sempre consultar a obra original, especialmente porque garante a credibilidade da fonte de pesquisa. Entretanto, caso essa citação seja relevante e a obra original seja inacessível, você pode utilizar o recurso de citação de citação com moderação. De acordo com a ABNT, as citações de citações devem ser apresentadas da seguinte forma:
+
+ - Primeiro você deve indicar a referência do autor não consultado, depois segue o “apud”, que significa “citado por, conforme”, e a referência completa ao autor da obra consultada;
+ - Não é necessário listar a obra indicada por “apud” na lista de referências ao final do trabalho, apenas o texto consultado;
+ - Não é regra, mas é interessante que você coloque na nota de rodapé a referência completa da obra não consultada.
