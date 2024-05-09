@@ -1,0 +1,32 @@
+1. FORMATAÇÃO
+
+
+Fonte: Arial ou Times New Roman
+Tamanho da fonte: 12
+Margens:
+- superior e esquerda: 3 cm
+- inferior e direita: 2 cm
+- Papel tamanho A4
+
+Parágrafo: 1,0cm a partir da margem esquerda de 3 cm.
+Espaçamento entre linhas: 1,5cm
+alinhamento justificado
+ parágrafo com recuo de 1,25 cm
+ numeração de página (no canto superior direito).
+
+Espaçamento entre Parágrafos: 02 enter; dar 01 enter e escrever no 2º enter. 
+
+A ABNT estabelece dois tipos de fonte ABNT. Em regra, cada pessoa estudante pode optar por um dos dois.
+
+No entanto, a partir do momento em que se escolher por um dos dois tipos, deve-se seguir até o final do trabalho com ele.
+
+Ou seja: não é possível misturar, em um mesmo trabalho, mais de um tipo de fonte. Se, por exemplo, você escolheu fazer o texto do trabalho em Arial, deve ir até o fim com esse tipo.
+
+
+Margens: 
+Seguindo as normas da ABNT, as margens de todos os trabalhos devem ser:
+
+Esquerda: 3 cm
+Superior: 3 cm
+Direita: 2 cm
+Inferior: 2 cm
